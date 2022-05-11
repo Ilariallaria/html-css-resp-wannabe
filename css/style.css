@@ -127,3 +127,14 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+ @media all and (max-width: 768px) {
+    
+    .site-header {
+        width: 100%;
+    }
+
+
+    .container {
+        width: 100%;
+    }
+}
